@@ -1,4 +1,6 @@
-## About Me 
+# My Portfolio
 
-* This website is a static HTML website using semantic tags and minimal CSS. 
-* It is currently hosted on Github Pages.
+This page is meant to show my portfolio
+
+## Link
+https://marlonpacheco.github.io/Responsive-Portfolio/index.html
